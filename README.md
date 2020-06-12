@@ -1,6 +1,8 @@
 # DetMax-Algorithm
 An improved algorithm of strain feature selection
-we develop and improve a computational method to select the number, 
+
+
+we developed and improved a computational method to select the number, 
 position and angle direction of strain gauge by using the determinant 
 maximization optimization design technology. This method takes the data 
 set created by the finite element analysis as the input, combines the 
